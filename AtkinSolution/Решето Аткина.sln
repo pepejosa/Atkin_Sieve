@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{1963FF41-1B1B-D560-A22D-F9D3C981C941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SieveClient", "SieveClient\SieveClient.csproj", "{5D89E0F1-96B1-4F9E-8F3D-115A0D26B3A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tes", "Tes\Tes.csproj", "{527B931D-92D7-47FC-BAFB-C6556283ECAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1963FF41-1B1B-D560-A22D-F9D3C981C941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1963FF41-1B1B-D560-A22D-F9D3C981C941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1963FF41-1B1B-D560-A22D-F9D3C981C941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1963FF41-1B1B-D560-A22D-F9D3C981C941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D89E0F1-96B1-4F9E-8F3D-115A0D26B3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D89E0F1-96B1-4F9E-8F3D-115A0D26B3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D89E0F1-96B1-4F9E-8F3D-115A0D26B3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D89E0F1-96B1-4F9E-8F3D-115A0D26B3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{527B931D-92D7-47FC-BAFB-C6556283ECAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527B931D-92D7-47FC-BAFB-C6556283ECAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527B931D-92D7-47FC-BAFB-C6556283ECAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527B931D-92D7-47FC-BAFB-C6556283ECAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+C:/Users/angry/OneDrive/Рабочий стол/Решето Аткина/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/angry/OneDrive/Рабочий стол/Решето Аткина/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.AssemblyInfoInputs.cache
+C:/Users/angry/OneDrive/Рабочий стол/Решето Аткина/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.AssemblyInfo.cs
+C:/Users/angry/OneDrive/Рабочий стол/Решето Аткина/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.csproj.CoreCompileInputs.cache
+C:/Users/angry/OneDrive/Рабочий стол/Решето Аткина/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.sourcelink.json
+C:/Users/angry/OneDrive/Рабочий стол/Решето Аткина/AtkinSolution/SieveClient/bin/Debug/net8.0/SieveClient.exe
+C:/Users/angry/OneDrive/Рабочий стол/Решето Аткина/AtkinSolution/SieveClient/bin/Debug/net8.0/SieveClient.deps.json
+C:/Users/angry/OneDrive/Рабочий стол/Решето Аткина/AtkinSolution/SieveClient/bin/Debug/net8.0/SieveClient.runtimeconfig.json
+C:/Users/angry/OneDrive/Рабочий стол/Решето Аткина/AtkinSolution/SieveClient/bin/Debug/net8.0/SieveClient.dll
+C:/Users/angry/OneDrive/Рабочий стол/Решето Аткина/AtkinSolution/SieveClient/bin/Debug/net8.0/SieveClient.pdb
+C:/Users/angry/OneDrive/Рабочий стол/Решето Аткина/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.dll
+C:/Users/angry/OneDrive/Рабочий стол/Решето Аткина/AtkinSolution/SieveClient/obj/Debug/net8.0/refint/SieveClient.dll
+C:/Users/angry/OneDrive/Рабочий стол/Решето Аткина/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.pdb
+C:/Users/angry/OneDrive/Рабочий стол/Решето Аткина/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.genruntimeconfig.cache
+C:/Users/angry/OneDrive/Рабочий стол/Решето Аткина/AtkinSolution/SieveClient/obj/Debug/net8.0/ref/SieveClient.dll
+/home/vboxuser/Desktop/atkin_client/AtkinSolution/SieveClient/bin/Debug/net8.0/SieveClient
+/home/vboxuser/Desktop/atkin_client/AtkinSolution/SieveClient/bin/Debug/net8.0/SieveClient.deps.json
+/home/vboxuser/Desktop/atkin_client/AtkinSolution/SieveClient/bin/Debug/net8.0/SieveClient.runtimeconfig.json
+/home/vboxuser/Desktop/atkin_client/AtkinSolution/SieveClient/bin/Debug/net8.0/SieveClient.dll
+/home/vboxuser/Desktop/atkin_client/AtkinSolution/SieveClient/bin/Debug/net8.0/SieveClient.pdb
+/home/vboxuser/Desktop/atkin_client/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/vboxuser/Desktop/atkin_client/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.AssemblyInfoInputs.cache
+/home/vboxuser/Desktop/atkin_client/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.AssemblyInfo.cs
+/home/vboxuser/Desktop/atkin_client/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.csproj.CoreCompileInputs.cache
+/home/vboxuser/Desktop/atkin_client/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.sourcelink.json
+/home/vboxuser/Desktop/atkin_client/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.dll
+/home/vboxuser/Desktop/atkin_client/AtkinSolution/SieveClient/obj/Debug/net8.0/refint/SieveClient.dll
+/home/vboxuser/Desktop/atkin_client/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.pdb
+/home/vboxuser/Desktop/atkin_client/AtkinSolution/SieveClient/obj/Debug/net8.0/SieveClient.genruntimeconfig.cache
+/home/vboxuser/Desktop/atkin_client/AtkinSolution/SieveClient/obj/Debug/net8.0/ref/SieveClient.dll
